@@ -10,12 +10,15 @@ const WORDS = [
         'heaven', 'insect', 'junior', 'kitten', 'lizard', 'magnet',
         'flower', 'preach', 'please', 'quasar', 'bucket', 'sunset',
         'tiger', 'unicorn', 'violet', 'walnut', 'remote','mobile','window',
-        'firing','racket','
+        'firing','racket'
 
       
    
       
   ];
+  console.log("I am here")
+  
+
   const NUMBER_OF_GUESSES = 6;
   let guessesRemaining = NUMBER_OF_GUESSES;
   let currentGuess = [];
