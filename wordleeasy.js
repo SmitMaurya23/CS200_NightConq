@@ -197,3 +197,29 @@ function handleEnter() {
 
 checkGuess()
 }
+function resetGame() {
+        
+    console.log("df") ;
+    console.log("f")
+    guessesRemaining = 6;
+    currentGuess = [];
+    nextLetter = 0;
+    currentRow = 0;
+    rightGuessString = WORDS[Math.floor(Math.random() * WORDS.length)];
+    
+
+    // Clear the displayed letters and their colors
+    for (const row of document.getElementsByClassName("lrow")) {
+        for (const box of row.children) {
+            box.textContent = "";
+            box.classList.remove("filled-box");
+            box.style.backgroundColor = "transparent";
+        }
+    }
+
+    // Reset the keyboard button colors
+    for (const ele of document.querySelectorAll(".keyboard-button")) {
+        ele.style.backgroundColor = "transparent";
+    }
+    console.log(rightGuessString)
+}
