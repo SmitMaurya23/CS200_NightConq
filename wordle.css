@@ -1,7 +1,7 @@
 
 
 Body{
-    background-color: white;
+    background-color: blue;
 }
 
 .wordle-game {
@@ -77,6 +77,27 @@ Body{
     margin-top: 60px;
     align-items: center;
     justify-content: center;
+    }
+    
+   /* Add this CSS for the "Play Again" button */
+.play-again {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#play-again-button {
+  padding: 10px 20px;
+  background-color: #007bff; /* Button background color */
+  color: #fff; /* Text color */
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+#play-again-button:hover {
+  background-color: #0056b3; /* Button background color on hover */
+}
     align-content: center;
   }
 
