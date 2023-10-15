@@ -1,7 +1,7 @@
 
 
 Body{
-    background-color: blue;
+    background-color:white;
 }
 
 .wordle-game {
@@ -10,7 +10,7 @@ Body{
     text-align: center;
     margin: 20px auto;
     width: 50%;
-    background-color: #f7f7f7;
+    background-color:   #c4c9b0;
     padding: 20px;
     border-radius: 10px;
   }
