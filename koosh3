@@ -1,7 +1,7 @@
 
 const WORDS = [
  
-         'charge', 'orange', 'guitar', 'friend', 'purple', 'rocket',
+        'charge', 'orange', 'guitar', 'friend', 'purple', 'rocket',
         'silver', 'monkey', 'jacket', 'window', 'bright', 'flower',
         'pencil', 'planet', 'monkey', 'dinkey', 'bottle', 'camera',
         'dancer', 'hammer', 'island', 'laptop', 'museum', '','proned',
@@ -11,6 +11,7 @@ const WORDS = [
         'flower', 'preach', 'please', 'quasar', 'bucket', 'sunset',
         'tiger', 'unicorn', 'violet', 'walnut', 'remote','mobile','window',
         'firing','racket','
+        
 
       
    

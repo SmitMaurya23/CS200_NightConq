@@ -1,16 +1,16 @@
 
 const WORDS = [
  
-         'charge', 'orange', 'guitar', 'friend', 'purple', 'rocket',
+        'banana', 'orange', 'guitar', 'friend', 'purple', 'rocket',
         'silver', 'monkey', 'jacket', 'window', 'bright', 'flower',
-        'pencil', 'planet', 'monkey', 'dinkey', 'bottle', 'camera',
-        'dancer', 'hammer', 'island', 'laptop', 'museum', '','proned',
-        'guitar', 'quartz', 'sailor', 'geyser', 'walnut', 'random',
+        'pencil', 'planet', 'rabbit', 'tennis', 'bottle', 'camera',
+        'dancer', 'hammer', 'island', 'laptop', 'museum', 'oyster',
+        'puppet', 'quartz', 'sailor', 'geyser', 'walnut', 'random',
         'yellow', 'coffee', 'doctor', 'eagle', 'forest', 'garden',
         'heaven', 'insect', 'junior', 'kitten', 'lizard', 'magnet',
-        'flower', 'preach', 'please', 'quasar', 'bucket', 'sunset',
+        'noodle', 'preach', 'puzzle', 'quasar', 'rabbit', 'sunset',
         'tiger', 'unicorn', 'violet', 'walnut', 'remote','mobile','window',
-        'firing','racket','
+        
 
       
    
