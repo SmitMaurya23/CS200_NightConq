@@ -1,0 +1,151 @@
+824c6d8 HEAD@{0}: pull: Fast-forward
+aac3dd2 HEAD@{1}: pull: Fast-forward
+b8bb120 HEAD@{2}: commit: changed css
+db13567 HEAD@{3}: pull: Merge made by the 'ort' strategy.
+4c5cfb7 HEAD@{4}: checkout: moving from 25fc530a03ae76ba36d0004aa238cb66c948c9ff to main
+
+25fc530 HEAD@{5}: rebase (start): checkout HEAD~2		#######
+4c5cfb7 HEAD@{6}: rebase (finish): returning to refs/heads/main		#######
+4c5cfb7 HEAD@{7}: rebase (pick): refined files
+d4cb85a HEAD@{8}: rebase (pick): created home.css
+25fc530 HEAD@{9}: rebase (pick): adding home.html
+ae2d142 HEAD@{10}: rebase (start): checkout HEAD~3
+
+c73c30b HEAD@{11}: commit (cherry-pick): refined files
+124f85c HEAD@{12}: commit: created home.css
+db7c6bf HEAD@{13}: pull: Merge made by the 'ort' strategy.
+ae2d142 HEAD@{14}: commit: removed unnecessary file
+cbb981a HEAD@{15}: pull: Fast-forward
+24608dd HEAD@{16}: checkout: moving from csss to main
+24608dd HEAD@{17}: checkout: moving from main to csss
+24608dd HEAD@{18}: checkout: moving from Koosh4 to main
+29917c3 HEAD@{19}: checkout: moving from smit3 to Koosh4
+974c61e HEAD@{20}: checkout: moving from sm3 to smit3
+383b58d HEAD@{21}: checkout: moving from main to sm3
+24608dd HEAD@{22}: checkout: moving from Koosh4 to main
+29917c3 HEAD@{23}: pull: Merge made by the 'ort' strategy.
+005fb77 HEAD@{24}: checkout: moving from main to Koosh4
+24608dd HEAD@{25}: checkout: moving from Koosh4 to main
+
+005fb77 HEAD@{26}: rebase (finish): returning to refs/heads/Koosh4
+005fb77 HEAD@{27}: rebase (pick): creeated features and game.html, updated css
+e2ab2d9 HEAD@{28}: rebase (pick): wordle.css is added with new feature
+07a3bb2 HEAD@{29}: rebase (pick): Adding play again feature in Intermediate mode
+24608dd HEAD@{30}: rebase (start): checkout main
+
+974c61e HEAD@{31}: checkout: moving from main to Koosh4
+24608dd HEAD@{32}: checkout: moving from sm5 to main
+
+833f572 HEAD@{33}: cherry-pick: creeated features and game.html, updated css
+
+58c69d6 HEAD@{34}: checkout: moving from Koosh4 to sm5
+974c61e HEAD@{35}: checkout: moving from sm5 to Koosh4
+58c69d6 HEAD@{36}: checkout: moving from smit to sm5
+996b119 HEAD@{37}: checkout: moving from Koosh4 to smit
+974c61e HEAD@{38}: checkout: moving from smit3 to Koosh4
+974c61e HEAD@{39}: checkout: moving from smit4 to smit3
+255cee6 HEAD@{40}: checkout: moving from smit3 to smit4
+974c61e HEAD@{41}: checkout: moving from Koosh4 to smit3
+
+974c61e HEAD@{42}: merge smit3: Fast-forward
+
+9a71bab HEAD@{43}: checkout: moving from smit3 to Koosh4
+974c61e HEAD@{44}: commit: creeated features and game.html, updated css
+a019300 HEAD@{45}: checkout: moving from smit4 to smit3
+255cee6 HEAD@{46}: checkout: moving from smit3 to smit4
+a019300 HEAD@{47}: checkout: moving from koosh2 to smit3
+3f14e86 HEAD@{48}: checkout: moving from smit4 to koosh2
+
+255cee6 HEAD@{49}: rebase (finish): returning to refs/heads/smit4
+255cee6 HEAD@{50}: rebase (squash): feature.js is created		#################################								
+af35794 HEAD@{51}: rebase (squash): # This is a combination of 2 commits.
+07eba4e HEAD@{52}: rebase (start): checkout HEAD~3
+6d3ff7c HEAD@{53}: rebase (abort): updating HEAD
+6d3ff7c HEAD@{54}: rebase (abort): updating HEAD
+
+6d3ff7c HEAD@{55}: checkout: moving from a0193000e48dc2e8bf8791f14ee757ae8a1be1a6 to smit4
+
+a019300 HEAD@{56}: rebase (start): checkout HEAD~3
+6d3ff7c HEAD@{57}: rebase (finish): returning to refs/heads/smit4
+6d3ff7c HEAD@{58}: rebase (start): checkout HEAD~2
+
+6d3ff7c HEAD@{59}: commit: created game.html
+
+552b46c HEAD@{60}: commit (amend): feature.html is created
+
+b17c889 HEAD@{61}: commit: feature.css is updated
+07eba4e HEAD@{62}: commit: feature.js is created
+a019300 HEAD@{63}: checkout: moving from smit3 to smit4
+a019300 HEAD@{64}: commit: wordle.css is added with new feature
+9a71bab HEAD@{65}: checkout: moving from Koosh4 to smit3
+9a71bab HEAD@{66}: checkout: moving from main to Koosh4
+24608dd HEAD@{67}: pull: Fast-forward
+
+6372cff HEAD@{68}: reset: moving to HEAD
+
+6372cff HEAD@{69}: pull: Fast-forward
+58c69d6 HEAD@{70}: checkout: moving from sm5 to main
+58c69d6 HEAD@{71}: checkout: moving from main to sm5
+58c69d6 HEAD@{72}: pull: Merge made by the 'ort' strategy.
+2fa8894 HEAD@{73}: commit (merge): resolved
+
+0cfa7a2 HEAD@{74}: reset: moving to HEAD
+0cfa7a2 HEAD@{75}: reset: moving to HEAD
+
+0cfa7a2 HEAD@{76}: commit (merge): updated index files
+
+8594f2d HEAD@{77}: checkout: moving from sm4 to main
+494dc5d HEAD@{78}: commit: updated indexeasy and indexhard.html
+8594f2d HEAD@{79}: checkout: moving from main to sm4
+8594f2d HEAD@{80}: checkout: moving from sm1 to main
+8594f2d HEAD@{81}: pull origin main: Fast-forward
+e8ffe95 HEAD@{82}: checkout: moving from main to sm1
+8594f2d HEAD@{83}: pull: Fast-forward
+f881530 HEAD@{84}: checkout: moving from f8815305634a50a4b609ce4757ffcd14a6609aa6 to main
+f881530 HEAD@{85}: checkout: moving from sm3 to HEAD^
+383b58d HEAD@{86}: checkout: moving from main to sm3
+f881530 HEAD@{87}: checkout: moving from main to main
+f881530 HEAD@{88}: checkout: moving from js1 to main
+f881530 HEAD@{89}: checkout: moving from main to js1
+f881530 HEAD@{90}: checkout: moving from js1 to main
+f881530 HEAD@{91}: rebase (finish): returning to refs/heads/js1
+f881530 HEAD@{92}: rebase (start): checkout main
+b0ac54b HEAD@{93}: checkout: moving from main to js1
+f881530 HEAD@{94}: checkout: moving from js1 to main
+b0ac54b HEAD@{95}: checkout: moving from b0ac54bfeb6322f7a1a24f5b539f6ed5a4b082f7 to js1
+b0ac54b HEAD@{96}: checkout: moving from main to jsfile_intermediate
+f881530 HEAD@{97}: checkout: moving from sm3 to main
+383b58d HEAD@{98}: commit: corrected indexeasy.html
+f881530 HEAD@{99}: checkout: moving from sm3 to sm3
+f881530 HEAD@{100}: checkout: moving from main to sm3
+f881530 HEAD@{101}: checkout: moving from sm4 to main
+f881530 HEAD@{102}: checkout: moving from main to sm4
+f881530 HEAD@{103}: checkout: moving from sm3 to main
+f881530 HEAD@{104}: checkout: moving from main to sm3
+f881530 HEAD@{105}: checkout: moving from sm3 to main
+f881530 HEAD@{106}: checkout: moving from main to sm3
+f881530 HEAD@{107}: revert: Revert "Added js file for intermediate mode ( 5 letters)"
+d9426da HEAD@{108}: pull: Fast-forward
+e8ffe95 HEAD@{109}: merge sm1: Fast-forward
+bd00b1a HEAD@{110}: checkout: moving from sm2 to main
+bd00b1a HEAD@{111}: checkout: moving from sm1 to sm2
+e8ffe95 HEAD@{112}: checkout: moving from main to sm1
+bd00b1a HEAD@{113}: checkout: moving from sm2 to main
+bd00b1a HEAD@{114}: checkout: moving from sm1 to sm2
+e8ffe95 HEAD@{115}: commit: created indexeasy.html
+bd00b1a HEAD@{116}: checkout: moving from main to sm1
+bd00b1a HEAD@{117}: checkout: moving from sm2 to main
+bd00b1a HEAD@{118}: checkout: moving from sm1 to sm2
+bd00b1a HEAD@{119}: checkout: moving from main to sm1
+bd00b1a HEAD@{120}: reset: moving to HEAD
+bd00b1a HEAD@{121}: pull: Fast-forward
+2bdb7f9 HEAD@{122}: checkout: moving from smit2 to main
+7e6fcaa HEAD@{123}: commit: done some part css and created js file
+2bdb7f9 HEAD@{124}: checkout: moving from main to smit2
+2bdb7f9 HEAD@{125}: pull: Fast-forward
+996b119 HEAD@{126}: merge smit: Fast-forward
+27168bc HEAD@{127}: checkout: moving from smit to main
+996b119 HEAD@{128}: commit: done some work in index.html
+27168bc HEAD@{129}: checkout: moving from main to smit
+27168bc HEAD@{130}: pull: Fast-forward
+42fda20 HEAD@{131}: clone: from https://github.com/SmitMaurya23/CS200_NightConq.git

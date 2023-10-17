@@ -5,17 +5,19 @@ body {
 
 h1 {
     color: #333;
+    font-size: 40px;
 }
 
 .difficulty-options {
     display: flex;
     justify-content: center;
     gap: 10px;
+    font-size: 25px;
 }
 
 .btn {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 30px 40px;
     background-color: #3498db;
     color: #fff;
     text-decoration: none;
@@ -30,5 +32,7 @@ h1 {
 }
 
 .instructions {
-    background-color: aqua;
+    background-color: rgb(202, 232, 184);
+    font-weight: 700;
+    font-size: 15px;
 }
